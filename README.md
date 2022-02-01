@@ -8,3 +8,7 @@ module3 - Arduino UNO       with MCU ATmega328P
 ## Connection diagram
 
 ![alt text](https://github.com/Ismoilkhuja/mcu_net/blob/main/images/connection.png)
+
+## Implementation of a microcontroller network on debug boards
+
+![alt text](https://github.com/Ismoilkhuja/mcu_net/blob/main/images/modified.jpg)
