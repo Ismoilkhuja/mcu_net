@@ -7,6 +7,7 @@ module2 - Black Board       with MCU STM32F103C8T6
 
 module3 - Arduino UNO       with MCU ATmega328P
 
+Sequential transmission "Hello, World!" with subsequent calculation of the СRC-8 on each microcontroller. With the correct СRC, the data is transmitted further, otherwise a new reception is expected. On STM32 microcontrollers used CMSIS.
 
 ## Connection diagram
 
