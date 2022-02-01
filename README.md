@@ -1,5 +1,4 @@
-# mcu_net
-Heterogeneous network of microcontrollers
+# Heterogeneous network of microcontrollers
 
 module1 - Weact Black Pill  with MCU STM32F401CCU6
 
